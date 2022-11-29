@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn {
+  padding: 0.5rem;
+  background-color: lightblue;
+  border: 2px solid blue;
+  margin: 5px;
+}
+.box {
+  background-color: aquamarine;
+  box-shadow: 0px 0px 10px blue;
+}
