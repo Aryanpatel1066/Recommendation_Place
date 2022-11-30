@@ -1,6 +1,6 @@
 # Recommendation_Place Makr 09
-![pc-3](https://user-images.githubusercontent.com/112760422/204728407-91d3afd1-71a0-4cec-acd4-c454bb36ee61.png)
-
+![pc-11](https://user-images.githubusercontent.com/112760422/204810437-0ce28aef-bad3-46dc-886c-9d54b41cd368.png)
+ 
  
  # About the project
  This is travel recommendation app.Checkout most beautiful travel destinations in Gujarat.
